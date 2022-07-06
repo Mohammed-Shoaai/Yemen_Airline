@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\Eng_Bassam\Desktop\مشروع البرمجة\mohammed\mohammed\Source.cpp(24,12): warning C4129:  'E': unrecognized character escape sequence
+C:\Users\Eng_Bassam\Desktop\مشروع البرمجة\mohammed\mohammed\Source.cpp(146,27): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Eng_Bassam\Desktop\مشروع البرمجة\mohammed\mohammed\Source.cpp(238,13): warning C4129:  '-': unrecognized character escape sequence
+C:\Users\Eng_Bassam\Desktop\مشروع البرمجة\mohammed\mohammed\Source.cpp(254,26): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Eng_Bassam\Desktop\مشروع البرمجة\mohammed\mohammed\Source.cpp(381,13): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\Eng_Bassam\Desktop\مشروع البرمجة\mohammed\mohammed\Source.cpp(383,13): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\Eng_Bassam\Desktop\مشروع البرمجة\mohammed\mohammed\Source.cpp(384,13): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\Eng_Bassam\Desktop\مشروع البرمجة\mohammed\mohammed\Source.cpp(386,13): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\Eng_Bassam\Desktop\مشروع البرمجة\mohammed\mohammed\Source.cpp(387,13): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\Eng_Bassam\Desktop\مشروع البرمجة\mohammed\mohammed\Source.cpp(389,13): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\Eng_Bassam\Desktop\مشروع البرمجة\mohammed\mohammed\Source.cpp(390,13): warning C4129:  ' ': unrecognized character escape sequence
+  person.cpp
+  Generating Code...
+C:\Users\Eng_Bassam\Desktop\مشروع البرمجة\mohammed\mohammed\Source.cpp(393,13): warning C4129:  ' ': unrecognized character escape sequence
+  mohammed.vcxproj -> C:\Users\Eng_Bassam\Desktop\مشروع البرمجة\mohammed\Debug\mohammed.exe
